@@ -1,26 +1,9 @@
-// // // How to create an object
-// // 	const personObject = {
-// // 		firstName: "FirstName",
-// // 		lastName: "LastName",
-// // 		greet: function() {
-// // 			return "Hello Everyone"
-// // 		},
-// //         greetWithName: function () {
-// //             return `Hello Everyone, my name is ${this.firstName}`;
-// //         },
-// //         greetWithMessage: function (message) {
-// //             return "Hello, this is your message " + message;
-// //         },
-// //         greetWithFunctionName: function greet() {
-// //             return "Testing";
-// //         }
-// // 	};
+// How to create an object
 
-// // // console.log(personObject.greet());
-// // // console.log(personObject.greetWithName());
-// // console.log(personObject.greetWithMessage("something"));
-// // // console.log(personObject.greetWithFunctionName);
+// console.log(personObject.greet());
+// console.log(personObject.greetWithName());
 
+// console.log(personObject.greetWithFunctionName);
 
 // // // Creating new functions
 // // // Functions can have a name - or not
