@@ -13,17 +13,17 @@ Week 4 JavaScript Objects &amp; Arrays Exercise
   - [X] Playing
   - [X] Feeding
   - [X] Checking status
-
-  - [] *optional* Add a method to rename the pet and update its status
+  - [X] *optional* Add a method to rename the pet and update its status
 
 [Details](https://github.com/rmccrear/codex-lv2-may-2024/blob/main/week-3-JavaScript/assignment/day-1.md)
 
 ## Day 2
 
-- [] Make index2.js
-- [] Create a factory function in JavaScript to generate pet objects with properties and methods.
-  - [] Implement and test multiple pets
-  - [] *optional* Add additional features like a rest method for extra credit
+- [X] Make index2.js
+- [X] Create a factory function in JavaScript to generate pet objects with properties and methods.
+
+  - [X] Implement and test multiple pets
+  - [X] *optional* Add additional features like a rest method for extra credit
 
 [Details](https://github.com/rmccrear/codex-lv2-may-2024/blob/main/week-3-JavaScript/assignment/day-2.md)
 
