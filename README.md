@@ -29,7 +29,8 @@ Week 4 JavaScript Objects &amp; Arrays Exercise
 
 ## Day 3
 
-- [] Make index3.js
+- [X] Make index3.js
+
 - [] Create pets using a factory function
   - [] Add them to a "kennel" array using *both* push and bracket notation
   - [] Log the array
